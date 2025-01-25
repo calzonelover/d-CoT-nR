@@ -1,5 +1,8 @@
-# Under construction
+# d-CoT-nR
 
+Official repository for paper [An Empirical Study of Multilingual Reasoning Distillation for Question Answering](https://aclanthology.org/2024.emnlp-main.442.pdf).
+
+**Under construction**
 - [x] Dependency
 - [ ] Data
 - [ ] Scripts
